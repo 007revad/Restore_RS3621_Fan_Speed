@@ -1,4 +1,4 @@
-# <img src="images/icon.png" width="40"> Restore RS3621 Fan Speed
+# Restore RS3621 Fan Speed
 
 <a href="https://github.com/007revad/Restore_RS3621_Fan_Speed/releases"><img src="https://img.shields.io/github/release/007revad/Restore_RS3621_Fan_Speed.svg"></a>
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2F007revad%2FRestore_RS3621_Fan_Speed&label=Visitors&icon=github&color=%23198754&message=&style=flat&tz=Australia%2FSydney)
@@ -54,8 +54,11 @@ If the script won't run check the following:
 
 ### Screenshots
 
-<!--- <p align="center">Description of image 1 goes here</p> --->
-<p align="center"><img src="/images/IMAGE_NAME.png"></p>
+<!--- <p align="center">Script output on first run</p> --->
+<p align="center"><img src="/images/1st_run.png"></p>
+
+<!--- <p align="center">Script output if run again</p> --->
+<p align="center"><img src="/images/2nd_run.png"></p>
 
 <br>
 
