@@ -54,13 +54,10 @@ If the script won't run check the following:
 
 ### Screenshots
 
-<!--- <p align="center">Script output on first run</p> --->
+<p align="center">Script output on first run</p>
 <p align="center"><img src="/images/1st_run.png"></p>
 
-<!--- <p align="center">Script output if run again</p> --->
+<p align="center">Script output if run again</p>
 <p align="center"><img src="/images/2nd_run.png"></p>
 
 <br>
-
-<!--- <p align="center">Description of image 2 goes here</p> --->
-<p align="center"><img src="/images/IMAGE_NAME.png"></p>
